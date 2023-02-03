@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denniel S. Lurion</h1>
 <h3 align="center">A motivated Flutter developer from the Philippines.</h3>
 
-<p align="right"> <a href="https://www.facebook.com/niel.sevilla.11" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niel.sevilla.11" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://twitter.com/nyel23890" target="blank"><img src="https://img.shields.io/twitter/follow/nyel23890?logo=twitter&style=for-the-badge" alt="nyel23890" /></a> </p>
 
 - 🔭 I’m currently working on [Legal Ease: Ius Criminales](https://github.com/sev-n/Legal-Ease-Ius-Criminale)
 
