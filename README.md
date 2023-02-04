@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denniel S. Lurion</h1>
-<h3 align="center">A motivated Flutter developer from the Philippines.</h3>
+<h3 align="center">Aspiring Flutter developer from the Philippines.</h3>
 
 <p align="left"> <a href="https://twitter.com/nyel23890" target="blank"><img src="https://img.shields.io/twitter/follow/nyel23890?logo=twitter&style=for-the-badge" alt="nyel23890" /></a> </p>
 
