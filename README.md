@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Legal Ease: Ius Criminales](https://github.com/sev-n/Legal-Ease-Ius-Criminale)
 
-- 🌱 I’m currently learning **Dart, Python, Flutter and Firebase**
+- 🌱 I’m currently learning **Dart, Flutter and Firebase**
 
-- 💬 Ask me about **Python, Dart, Flutter and Tkinter**
+- 💬 Ask me about **Python, Dart and Flutter**
 
 - 📫 How to reach me **nielsevilla39@gmail.com**
 
