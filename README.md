@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/nyel23890" target="blank"><img src="https://img.shields.io/twitter/follow/nyel23890?logo=twitter&style=for-the-badge" alt="nyel23890" /></a> </p>
 
-- 🔭 I’m currently working on [Legal Ease: Ius Criminales](https://github.com/sev-n/Legal-Ease-Ius-Criminale)
 
 - 🌱 I’m currently learning **Dart, Flutter and Firebase**
 
